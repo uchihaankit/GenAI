@@ -21,4 +21,3 @@ langchain_chroma
 langchain_openai
 openai
 pysqlite3-binary
-cromadb
